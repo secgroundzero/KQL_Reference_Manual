@@ -1,0 +1,1 @@
+# KQL_Reference_Manual
